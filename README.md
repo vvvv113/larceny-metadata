@@ -1,6 +1,6 @@
 # larceny-metadata
-imperceptible collection of information about the user and his device (local and virtual)
+Imperceptible collection of information about the user and his device (local and virtual)
 
-В процессе выполнения данной работы я  реализовывал «кражу» данных о пользователе и его устройстве, как удаленно, так и используя локульную  программу. 
-Я реализовал 2 скрипта на Python и JavaScript, которые собирали эту  информацию и помещали их в файл, а потом зашифровывали. 
-Мне удалось создать программу, которая будет выполнять «обновления», реализовать скрипт, который будет собирать данные о пользователе и помещать их в файл,  реализовать кодирование этого файла, чтобы нельзя было узнать его содержимое,  реализовать защиту файлов от изменения, реализовать отключение скрипта при вводе  пароля, а также проделать эти же пункты для веб странички. Я проверил работоспособность  программы и убедился, что все работает корректно. 
+In the process of doing this work, I implemented the "theft" of data about the user and his device, both remotely and using a local program. 
+I implemented 2 scripts in Python and JavaScript that collected this information and put it in a file, and then encrypted it. 
+I managed to create a program that will perform "updates", implement a script that will collect user data and put it in a file, implement encoding of this file so that its contents cannot be found out, implement file protection from modification, implement disabling the script when entering a password, and also do the same for the web pages. I checked the functionality of the program and made sure that everything works correctly.
